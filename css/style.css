@@ -1,0 +1,51 @@
+.home{
+    height: 100vh;
+    background: url(../images/sky.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav{
+    background-color: rgba(95, 24, 71, 0.479);
+}
+
+nav h1{
+    color:rgb(105, 196, 239);
+    font-family: 'Teko', sans-serif;
+    text-shadow: 8px 5px #004e75;
+}
+
+nav p{
+    color: rgba(255, 255, 255, 0.857);
+    font-family: 'Teko', sans-serif;
+}
+
+nav img{
+    width: 45px;
+    filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.866));
+}
+
+.box{
+    background-color: rgba(0, 0, 0, 0.428);
+}
+
+.pin{
+    top: 6px;
+    right: 15px;
+    color: rgb(80, 149, 182)
+}
+
+.box2 p{
+    color: rgba(77, 7, 7, 0.709) !important;
+    padding: 0;
+    margin: 0;
+}
+
+span img{
+    width: 5%;
+}
+
+.main{
+    background-color: rgb(59, 121, 150);
+}
